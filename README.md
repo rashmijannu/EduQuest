@@ -1,1 +1,1 @@
-# fullstack_arci
+# EduQuest
