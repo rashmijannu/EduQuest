@@ -1,5 +1,4 @@
 # EduQuest
-# EduQuest
 
 A comprehensive educational platform designed to make learning engaging, interactive, and accessible for students of all ages.
 
