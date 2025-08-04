@@ -4,14 +4,7 @@ A comprehensive educational platform designed to make learning engaging, interac
 
 ## 🌟 Features
 
-- **Interactive Learning Modules**: Engaging content with multimedia support
-- **Progress Tracking**: Monitor learning progress with detailed analytics
-- **Gamification**: Earn points, badges, and achievements to stay motivated
-- **Multi-format Content**: Support for videos, quizzes, assignments, and interactive exercises
-- **Collaborative Learning**: Discussion forums and group projects
-- **Mobile Responsive**: Learn anywhere, anytime on any device
-- **Personalized Learning Paths**: AI-driven recommendations based on learning style
-- **Real-time Feedback**: Instant assessment and constructive feedback
+-
 
 ## 🚀 Getting Started
 
